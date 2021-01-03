@@ -132,7 +132,8 @@ body{
 .submenu a:hover{
     background-color: #fff;
     color: #2c71b8;
-}
+} 
+
 .menu li:hover > .submenu{
     opacity: 1;
 }
